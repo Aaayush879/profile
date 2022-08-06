@@ -1,0 +1,17 @@
+.containe{
+    border:0.5px solid black;
+    height:auto;
+    width:auto;
+    
+
+}
+.headd{
+    justify-content: end;
+}
+.footerr{
+    display: flex;
+    justify-content: space-between;
+}
+.foote{
+    display: flex;
+}

@@ -1,0 +1,8 @@
+.my{
+    display:flex;
+    justify-content: space-around;
+}
+.my1{
+    border: 0.2px solid black;
+    width:35vw;
+}
